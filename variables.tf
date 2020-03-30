@@ -1,10 +1,4 @@
 # variables.tf
-variable "access_key" {
-     default = "AKIAUU555JC6QC2NPWWK"
-}
-variable "secret_key" {
-     default = "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"
-}
 variable "region" {
      default = "us-east-1"
 }
